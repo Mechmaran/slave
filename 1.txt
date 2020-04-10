@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 hihihihihihih
+=======
+oooo
+kkkk
+hhhh
+jjjj
+kkkk
+>>>>>>> tt
 hi
 hi
 hhhhhhi
